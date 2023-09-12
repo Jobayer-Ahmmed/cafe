@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/DbQsdHQ/pexels-mart-production-7577779.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/94gHDfZ/girl2.jpg",
+      "title": "Exploring the Universe",
+      "posted_date": "2023-09-13",
+      "reading_time": "10 minutes",
+      "hashtags": ["space", "science", "exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/x5JpnN5/bargar.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/zGw9kGN/girl1.jpg",
+      "title": "The Art of Cooking",
+      "posted_date": "2023-09-12",
+      "reading_time": "15 minutes",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/s213pzx/briani.jpg",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/tDHv7zp/boy2.jpg",
+      "title": "Traveling the World",
+      "posted_date": "2023-09-11",
+      "reading_time": "20 minutes",
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/rFGXJ4D/pexels-zaksheuskaya-1561020.jpg",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/qCC9FWB/boy1.png",
+      "title": "The Future of Technology",
+      "posted_date": "2023-09-10",
+      "reading_time": "12 minutes",
+      "hashtags": ["technology", "innovation", "future"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/WzDKK4v/water.jpg",
+      "author": "Emily Wilson",
+      "author_img": "https://i.ibb.co/zGw9kGN/girl1.jpg",
+      "title": "Healthy Living Tips",
+      "posted_date": "2023-09-09",
+      "reading_time": "8 minutes",
+      "hashtags": ["health", "wellness", "fitness"]
+    }
+  ]
+  
