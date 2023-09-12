@@ -13,12 +13,14 @@ const Blog = ({ data }) => {
   } = data;
 
   return (
-    <div>
       <div>
+
         <div>
           <img src={cover} alt="" className="w-[800px] h-[400px] rounded-lg" />
         </div>
+
         <div>
+          <div>
           <div>
             <img src={author_img} alt="" className="w-12 h-12 rounded-full" />
           </div>
@@ -30,15 +32,17 @@ const Blog = ({ data }) => {
               <p>{posted_date}</p>
             </div>
           </div>
+          </div>
           <div>
             <p>{reading_time}</p>
           </div>
         </div>
+
         <title>{title}</title>
         <p>{hashtags}</p>
         <a href="">Mark as read</a>
+        
       </div>
-    </div>
   );
 };
 
