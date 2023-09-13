@@ -43,7 +43,7 @@ const Blog = ({ data, handleBookmark, handleReadingTime }) => {
           {/* fourth div */}
         <p className='flex gap-3 mb-2'>{hashtags.map((hastag,id)=><span key={id}>#{hastag}</span>)}</p>
           {/* fifth div */}
-        <button onClick={()=>handleReadingTime(reading_time)} className='underline text-[#6047EC] visited:text-purple-400'>Mark as read</button>
+        <button onClick={()=>handleReadingTime(reading_time, id)} className='underline text-[#6047EC] visited:text-purple-400'>Mark as read</button>
         
       </div>
   );
